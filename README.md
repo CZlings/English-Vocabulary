@@ -1,8 +1,8 @@
 #### Intro
 - This is the index of vocabulary files 
-> GitHub Sync
-> NotebookLM + Gemini + Obsidian
-> Order by lastest date
+> * GitHub Sync
+> * NotebookLM + Gemini + Obsidian
+> * Order by lastest date
 
 #### Parts of speech / Lexical categories
 * Noun: takes the place
