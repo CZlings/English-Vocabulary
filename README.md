@@ -1,6 +1,6 @@
 ### Intro
 - This is the index of vocabulary files 
-> * GitHub Sync
+> * GitHub Sync (Git LFS)
 > * NotebookLM + Gemini + Obsidian
 > * Order by lastest date
 
