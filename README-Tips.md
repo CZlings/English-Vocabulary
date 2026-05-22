@@ -1,6 +1,6 @@
 ## 英文原著阅读
 #### 读前（意图识别）
-- 目标拆分，DDL，时间块分配
+- 目标拆分(SMART + OKR)，DDL(预算)，时间块分配(资源分配)
   - GoogleTask制作Plan / Todo
 - 子目标列表，子任务时间分配
  - Reminder列出schedule / Todo
