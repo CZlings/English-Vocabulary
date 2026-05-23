@@ -1,6 +1,6 @@
 ## 英文原著阅读
 #### 读前（意图识别）
-- 目标拆分(SMART + OKR)，DDL(预算)，时间块分配(资源分配)
+- 目标拆分(SMART + OKR)，DDL(预算规划)，时间块分配(资源分配)
   - GoogleTask制作Plan / Todo
 - 子目标列表，子任务时间分配
  - Reminder列出schedule / Todo
@@ -9,8 +9,8 @@
 - Mac主屏：书籍阅读 
 - 副屏(拓展屏)：
   * 左上：github词汇积累
-  * 右上：四大词典(Oxford, MW, Cambridge, Collins )/查词工具(reverso)
-  * 左下：NotebookLLM(理清书籍脉络), Gemini(动态多样复杂问题求解)
+  * 右上：四大词典(Oxford Learner's, Merriam-Webster, Cambridge, Collins )/查词工具(reverso)
+  * 左下：NotebookLLM(理清书籍脉络,Studio提供Flashcards, Quiz,Overview), Gemini(动态多样复杂问题求解)
   * 右下：Obsidian（康奈尔笔记/其它读书笔记）
 
 #### 读后 （看做教）
