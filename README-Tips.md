@@ -12,6 +12,10 @@
   * 右上：四大词典(Oxford Learner's, Merriam-Webster, Cambridge, Collins )/查词工具(reverso)
   * 左下：NotebookLLM(理清书籍脉络,Studio提供Flashcards, Quiz,Overview), Gemini(动态多样复杂问题求解)
   * 右下：Obsidian（康奈尔笔记/其它读书笔记）
+    – 知识库
+    – 读书/学习 笔记
+    – 知识梳理
+    - 思维导图
 
 #### 读后 （看做教）
 - 输出分享
