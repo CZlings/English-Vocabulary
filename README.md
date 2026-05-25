@@ -1,4 +1,8 @@
+
+### NotebookLLM
+  - 将markdown扔给AI,生成问题闪卡,录入Anki
 ### Anki Sync
+  - 通过SRS（Spaced Repetition System，间隔重复系统）记忆
 
 ### Intro
 - This is the index of vocabulary files 
