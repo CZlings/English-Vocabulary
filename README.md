@@ -1,4 +1,4 @@
-
+## Methodology
 ### NotebookLLM
   - 将markdown扔给AI,生成问题闪卡,录入Anki
 ### Anki Sync
@@ -10,6 +10,9 @@
 > * NotebookLM + Gemini + Obsidian
 > * Order by lastest date
 
+---
+
+## Content
 ### Lexical
 * Noun: takes the place
   - Singular vs. Plural
